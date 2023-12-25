@@ -40,13 +40,17 @@ div {
 
 .section-2 > div:nth-of-type(1) {
   background-color: #fb8500;
+  transform: skew(45deg);
 }
 .section-2 > div:nth-of-type(2) {
   background-color: #ffb703;
+  transform: skew(10deg, 3deg);
 }
 .section-2 > div:nth-of-type(3) {
   background-color: #023047;
+  transform: rotate(20deg) scale(1);
 }
 .section-2 > div:nth-of-type(4) {
   background-color: #219ebc;
+  transform: translateX(-300px) rotate(50deg) scale(0.6) skew(20deg);
 }
