@@ -48,9 +48,9 @@ div {
 }
 .section-2 > div:nth-of-type(3) {
   background-color: #023047;
-  transform: rotate(20deg) scale(1);
+  transform: rotate(15deg) scale(1.5);
 }
 .section-2 > div:nth-of-type(4) {
   background-color: #219ebc;
-  transform: translateX(-300px) rotate(50deg) scale(0.6) skew(20deg);
+  transform: translateX(-300px) rotate(50deg) scale(0.8) skew(20deg);
 }
